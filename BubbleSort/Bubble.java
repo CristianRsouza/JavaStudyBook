@@ -1,6 +1,6 @@
 package BubbleSort;
 
-public class main {
+public class Bubble {
   public static void main(String[] args) {
     int[] vetor = {5, 2, 1, 6};
 

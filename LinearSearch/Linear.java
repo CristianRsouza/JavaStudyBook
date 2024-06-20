@@ -2,7 +2,7 @@ package LinearSearch;
 
 
 
-public class main {
+public class Linear {
 
 
   public static int Search(int[] list, int target) {

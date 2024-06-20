@@ -1,6 +1,6 @@
 package Vetor;
 
-public class main {
+public class Vetor {
   public static void main(String[] args) {
       Integer vetor[];
       vetor = new Integer[10];
